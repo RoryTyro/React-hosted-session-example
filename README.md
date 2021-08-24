@@ -1,4 +1,4 @@
-# MPGS hosted session in React demo 
+# MPGS hosted session in React example
 This example is to show how the MPGS hosted session library can be used in React. It demonstrates that the Session.JS library can be used in a Single page application when switching between components. 
 
 ## Quick start guide:
